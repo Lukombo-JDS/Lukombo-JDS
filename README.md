@@ -11,3 +11,5 @@ I'm a junior at my 30s a noob in the world of coding, I'm enjoying my journey wi
 - 💬 Ask me about my project **StackIt**
 - 📫 How to reach me: Daily.dev '@mona-lds'
 - ⚡ Fun fact: started to dev 4 years ago at 29yo
+
+<a href="https://app.daily.dev/mona_lds"><img src="https://api.daily.dev/devcards/v2/e5ScJLOXv6AQlCyzEWg8G.png?r=3j6&type=default" width="356" alt="Mona-LJDS's Dev Card"/></a>
